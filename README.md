@@ -1,8 +1,8 @@
 # Simon Says Game
 
 Get ready to challenge your memory and reflexes with this classic electronic Simon Says game! This project is a web-based implementation of the popular memory game, built using HTML, CSS, and JavaScript.
-![Screenshot (139)](https://github.com/Abhishek-Singh2609/Simon-Say-Game/assets/76973944/7400aada-a98d-489c-b4aa-2b14ec924351)
 
+![Screenshot (139)](https://github.com/Abhishek-Singh2609/Simon-Say-Game/assets/76973944/7400aada-a98d-489c-b4aa-2b14ec924351)
 
 # Features:
 # Authentic Gameplay: 
